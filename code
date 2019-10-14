@@ -63,19 +63,19 @@ CREDITS
     <meta name="viewport" content="width=device-width, initial-scale=1">
  
 <!--Custom Options-->
-<meta name="color:background" content="#fcfcfc" />
-<meta name="color:accent" content="#DE6262" />
+<meta name="color:background" content="#f7f7f7" />
+<meta name="color:accent" content="#de6262" />
 <meta name="color:accented text" content="#ffffff" />
 <meta name="color:Text" content="#888888" />    
-<meta name="color:bold" content="#d5d2c8" />
-<meta name="color:italic" content="#d5d2c8"/>
-<meta name="color:underline" content="#d5d2c8"/>
-<meta name="color:Links" content="#d5d2c8" />
-<meta name="color:Link Hover" content="#e5e2e2" />
+<meta name="color:bold" content="#de6262" />
+<meta name="color:italic" content="#de6262"/>
+<meta name="color:underline" content="#de6262"/>
+<meta name="color:Links" content="#000000" />
+<meta name="color:Link Hover" content="#de6262" />
 <meta name="color:text selection" content="#ffffff" />
-<meta name="color:text selection background" content="#d5d2c8" />
-<meta name="color:Blockquote" content="#d5d2c8" />
-<meta name="color:Scrollbar" content="#d5d2c8" />
+<meta name="color:text selection background" content="#de6262" />
+<meta name="color:Blockquote" content="#de6262" />
+<meta name="color:Scrollbar" content="#de6262" />
 
 <meta name="color:topbar" content="#ffffff" />
 <meta name="color:navi" content="#000000" />
@@ -85,13 +85,10 @@ CREDITS
 <meta name="color:Post Title" content="#000000" />
 <meta name="color:Post Borders" content="#f6f6f6" />
  
-<meta name="color:Chat" content="#aaaaaa" />
-<meta name="color:audio bold" content="#bca297" />
-<meta name="color:question" content="#888888" />
 <meta name="color:pagination" content="#bca297" />
 <meta name="color:permalink" content="#888888" />
 <meta name="color:permalink background" content="#fcfcfc" />
-<meta name="color:permalink hover" content="#cccccc" />
+<meta name="color:permalink hover" content="#de6262" />
  
 <meta name="select:Background Attachment" content="fixed" title="fixed">
 <meta name="select:Background Attachment" content="scroll" title="scroll">
@@ -1160,7 +1157,7 @@ iframe.tumblr_audio_player {
 
 #title a:hover {
     color: {color:navi};
-    box-shadow: inset 0px -15px 0px 0px {color:post borders};
+    box-shadow: inset 0px -15px 0px 0px {color:accent};
 }
 
 #title:after {
