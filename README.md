@@ -1,3 +1,5 @@
+Theme ⎾METROPOLIS⏌ by sheathemes @ tumblr
+
 - TERMS -
 
 I. Do NOT remove my credit from the index page. Keep it exactly where it is
